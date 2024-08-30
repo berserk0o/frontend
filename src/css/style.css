@@ -189,11 +189,12 @@ color: #4f93e5;
 .skills {
     background-color: #1f1f20;
     margin: 10px 0 10px 0;
+    padding-bottom: 50px;
+    padding-top: 50px;
 
 }
 
 .skills__title{
-    padding-top: 50px;
     padding-bottom: 50px;
     color: #ffffff;
     font-size: 36px;
@@ -262,6 +263,36 @@ h3{
     
 }
 
-img{
 
+
+/* Section Resume */
+
+.resume{
+    padding-top: 50px;
+}
+
+.resume__title{
+    color: #fff;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 5px;
+}
+
+
+/* Section Works */
+
+.works{
+    padding-top: 50px;
+    background-color: #1f1f20;
+}
+
+.works__title{
+    color: #fff;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 5px;
 }
