@@ -24,6 +24,17 @@ img {
 }
 
 
+.title{
+    color: #fff;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 5px;
+    padding-bottom: 50px;
+}
+
+
 .container{
     max-width: 1100px;
     margin: 0 auto;
@@ -194,15 +205,7 @@ color: #4f93e5;
 
 }
 
-.skills__title{
-    padding-bottom: 50px;
-    color: #ffffff;
-    font-size: 36px;
-    font-weight: 600;
-    letter-spacing: 5px;
-    background-color: #1f1f20;
-    text-align: center;
-}
+.skills__title{}
 
 h3{
     margin: 20px 0 10px 0;
@@ -271,14 +274,7 @@ h3{
     padding-top: 50px;
 }
 
-.resume__title{
-    color: #fff;
-    padding-bottom: 50px;
-    text-align: center;
-    font-size: 36px;
-    font-weight: 600;
-    letter-spacing: 5px;
-}
+.resume__title{}
 
 
 /* Section Works */
@@ -288,38 +284,17 @@ h3{
     background-color: #1f1f20;
 }
 
-.works__title{
-    color: #fff;
-    padding-bottom: 50px;
-    text-align: center;
-    font-size: 36px;
-    font-weight: 600;
-    letter-spacing: 5px;
-}
+.works__title{}
 
 .contact{
     padding-top: 50px;
 }
 
-.contact__title{
-    color: #fff;
-    padding-bottom: 50px;
-    text-align: center;
-    font-size: 36px;
-    font-weight: 600;
-    letter-spacing: 5px;
-}
+.contact__title{}
 
 .footer{
     padding-top: 50px;
     background-color: #1f1f20;
 }
 
-.footer__title{
-    color: #fff;
-    padding-bottom: 50px;
-    text-align: center;
-    font-size: 36px;
-    font-weight: 600;
-    letter-spacing: 5px;
-}
+.footer__title{}
